@@ -9,7 +9,6 @@ import {
   Title,
   Tooltip,
   Legend,
-  Scale,
   ChartOptions
 } from 'chart.js';
 import { Bond } from '../types/Bond';
